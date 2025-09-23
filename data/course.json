@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "a13cb180-def7-1b67-51c6-7ce1c2c1e48e",
+  "instructors": {
+    "content": [
+      "3d0b085b-3b49-dc03-1a30-85de9ff67612",
+      "e3b273af-f671-efcf-eb67-0e4db270cc1d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c6ef370f-6f5d-9552-f626-0ac2d1d89dae",
+    "website": "8-07-electromagnetism-ii-fall-2012"
+  },
+  "course_title": "Electromagnetism II",
+  "course_description": "This course is the second in a series on Electromagnetism beginning with Electromagnetism I ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) or {{% resource_link \"8630c70d-23c1-44a8-a111-99e93ff429e5\" \"8.022\" %}}). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell's equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.07",
+  "course_image_thumbnail": {
+    "content": "9b58187e-87c2-264a-15dd-db8a97df127c",
+    "website": "8-07-electromagnetism-ii-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams with Solutions"
+  ],
+  "site_uid": "1164f327-84bc-42cf-ad8c-26d469afb30c",
+  "site_short_id": "8.07-fall-2012",
+  "site_url_path": "courses/8-07-electromagnetism-ii-fall-2012",
+  "title": "Course Metadata"
+}
