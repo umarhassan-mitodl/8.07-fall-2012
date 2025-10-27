@@ -4,8 +4,6 @@ description: This file contains information regarding quiz 1 solution.
 file: /courses/8-07-electromagnetism-ii-fall-2012/41acba595b23722c202886335cef3226_MIT8_07F12_quizsol1.pdf
 file_size: 460184
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

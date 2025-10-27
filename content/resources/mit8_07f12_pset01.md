@@ -4,8 +4,6 @@ description: This file contains information regarding problem set 1.
 file: /courses/8-07-electromagnetism-ii-fall-2012/b749f0967109af1c15b5786340b2f6cc_MIT8_07F12_pset01.pdf
 file_size: 106940
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
