@@ -24,8 +24,7 @@
     "website": "8-07-electromagnetism-ii-fall-2012"
   },
   "course_title": "Electromagnetism II",
-  "hide_download": true,
-  "course_description": "This course is the second in a series on Electromagnetism beginning with Electromagnetism I ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) or [8.022](https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell's equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
+  "course_description": "This course is the second in a series on Electromagnetism beginning with Electromagnetism I ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) or {{% resource_link \"b46d6c85-0e42-4091-8b6e-ea77f9e336be\" \"8.022\" %}}). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell's equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
   "department_numbers": [
     "8"
   ],
@@ -35,7 +34,6 @@
     "content": "9b58187e-87c2-264a-15dd-db8a97df127c",
     "website": "8-07-electromagnetism-ii-fall-2012"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
